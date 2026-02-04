@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-in-app-update": ["./src/index"]
+      "@kallinen/react-native-in-app-update": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

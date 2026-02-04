@@ -14,7 +14,7 @@ import {
     completeFlexibleUpdate,
     startUpdate,
     type VersionCheckResult,
-} from 'react-native-in-app-update'
+} from '@kallinen/react-native-in-app-update'
 
 type UiState =
     | { status: 'idle' }

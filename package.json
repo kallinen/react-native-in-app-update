@@ -1,5 +1,5 @@
 {
-  "name": "react-native-in-app-update",
+  "name": "@kallinen/react-native-in-app-update",
   "version": "0.1.0",
   "description": "Check application updates",
   "main": "./lib/module/index.js",

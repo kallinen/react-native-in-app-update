@@ -1,5 +1,5 @@
 {
-  "name": "react-native-in-app-update-example",
+  "name": "@kallinen/react-native-in-app-update-example",
   "version": "0.0.1",
   "private": true,
   "scripts": {

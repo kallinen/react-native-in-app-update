@@ -1,4 +1,4 @@
-# react-native-in-app-update
+# @kallinen/react-native-in-app-update
 
 Check application updates
 
@@ -6,7 +6,7 @@ Check application updates
 
 
 ```sh
-npm install react-native-in-app-update
+npm install @kallinen/react-native-in-app-update
 ```
 
 
@@ -14,7 +14,7 @@ npm install react-native-in-app-update
 
 
 ```js
-import { checkForUpdate } from 'react-native-in-app-update';
+import { checkForUpdate } from '@kallinen/react-native-in-app-update';
 
 // ...
 
