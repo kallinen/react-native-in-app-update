@@ -14,11 +14,11 @@ npm install react-native-in-app-update
 
 
 ```js
-import { multiply } from 'react-native-in-app-update';
+import { checkForUpdate } from 'react-native-in-app-update';
 
 // ...
 
-const result = multiply(3, 7);
+const result = await checkForUpdate({ prefer: 'flexible' })
 ```
 
 
